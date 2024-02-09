@@ -1,0 +1,10 @@
+##gff-version 3
+NZ_CP038663.1	barrnap:0.9	rRNA	85461	86326	1.7e-90	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 46 percent of the 18S ribosomal RNA
+NZ_CP038663.1	barrnap:0.9	rRNA	251001	252057	6.6e-33	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 36 percent of the 28S ribosomal RNA
+NZ_CP038663.1	barrnap:0.9	rRNA	252099	253098	2.3e-79	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 34 percent of the 28S ribosomal RNA
+NZ_CP038663.1	barrnap:0.9	rRNA	2242994	2243993	3e-80	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 34 percent of the 28S ribosomal RNA
+NZ_CP038663.1	barrnap:0.9	rRNA	2244035	2245091	6.8e-33	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 36 percent of the 28S ribosomal RNA
+NZ_CP038663.1	barrnap:0.9	rRNA	2283081	2283946	1.8e-90	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 46 percent of the 18S ribosomal RNA
+NZ_CP038663.1	barrnap:0.9	rRNA	2463828	2464693	1.8e-90	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 46 percent of the 18S ribosomal RNA
+NZ_CP038663.1	barrnap:0.9	rRNA	2581079	2582078	2.2e-79	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 34 percent of the 28S ribosomal RNA
+NZ_CP038663.1	barrnap:0.9	rRNA	2582120	2583176	3.6e-33	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 36 percent of the 28S ribosomal RNA
