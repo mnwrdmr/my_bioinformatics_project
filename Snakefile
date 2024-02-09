@@ -10,4 +10,4 @@ rule barrnap:
     conda:
         'env/env.yaml'
     shell:
-        '''barrnap --kingdom euk --quiet {input.genome} > {output.barrnap}'''
+        '''barrnap --kingdom bac --quiet {input} > {output}'''
