@@ -32,7 +32,7 @@ rule makeblastdb:
         outname='output/{type}/RepeatModeler/db/{Genome}'
     conda:
         '/Users/macvbookpro/opt/anaconda3/envs/blast'
-    script:
+    shell:
         'makeblastdb -dbtype nucl -in {input} -out {params.outname}'
 
 rule repeatmodeler:
