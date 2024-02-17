@@ -1,7 +1,8 @@
 rule all:
     input:
+            expand('output/orthofinder/')
             #expand('output/barrnap/{Genome}_rrna.gff3', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
-            expand('output/RepeatModeler/{Genome}_output.fasta', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
+            #expand('output/RepeatModeler/{Genome}_output.fasta', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
             #expand('output/RepeatModeler/{Genome}.stk', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
 
 ##Barrnap predicts the location of ribosomal RNA genes in genomes.
@@ -42,10 +43,19 @@ rule repeatmodeler:
     output:
         log='output/RepeatModeler/{Genome}_output.fasta'
     params:
-        outdir='output/RepeatModeler/db/{Genome}',
+        outdir='output/RepeatModeler/db/{Genome}.nhr',
         threads=6
     conda:
         'env/env.yaml'
     shell:
         '''RepeatModeler -database {params.outdir} -engine ncbi -pa {params.threads} > {output.log}'''
 
+rule orthofinder:
+    input:
+        fasta = 'data/orthofinder/',
+    output:
+        directory('output/orthofinder/'),
+    conda:
+        'env/env.yaml'
+    script:
+          'scripts/1_BioinformaticsTools/orthofinder.py'
