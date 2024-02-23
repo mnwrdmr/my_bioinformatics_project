@@ -1,7 +1,6 @@
 rule all:
-    input:
-            expand('output/orthofinder/')
-            #expand('output/barrnap/{Genome}_rrna.gff3', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
+    input:  expand('output/barrnap1/{Genome}_rrna.gff3', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
+            #expand('output/orthofinder/'),
             #expand('output/RepeatModeler/{Genome}_output.fasta', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
             #expand('output/RepeatModeler/{Genome}.stk', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
 
@@ -10,11 +9,11 @@ rule barrnap:
     input:
             genome = 'data/Genome/{Genome}.fasta'
     output:
-            barrnap = 'output/barrnap/{Genome}_rrna.gff3'
+            barrnap = 'output/barrnap1/{Genome}_rrna.gff3'
     conda:
         'env/env.yaml'
     shell:
-        '''barrnap --kingdom bac --quiet {input} > {output}'''
+        '''barrnap --kingdom euk --quiet {input.genome} > {output.barrnap}'''
 
 #barrnap outputları alındıktan sonra db ayrıldı tekrar çalıştırmak istenirse dikkat
 #RepeatModeler için makeblastdb (db_fasta:bacillus_subtilis):
@@ -54,7 +53,7 @@ rule orthofinder:
     input:
         fasta = 'data/orthofinder/',
     output:
-        directory('output/orthofinder/'),
+        directory('output/orthofinder/')
     conda:
         'env/env.yaml'
     script:
