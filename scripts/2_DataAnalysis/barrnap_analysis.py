@@ -165,3 +165,33 @@ plt.title('rRNA Type Scatter Plot')
 plt.legend()
 plt.grid(True)
 plt.show()
+
+
+
+#############
+#renkler ile 3 genom için scatterplot
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Veri çerçevesinin sütunları
+columns = ["seqid", "source", "type", "start", "end", "score", "strand", "phase", "attributes"]
+
+# Bakteri genomlarının barrnap çıktılarını yükle
+bacillus_barrnap = pd.read_csv('/Users/macvbookpro/PycharmProjects/repeatmodeler/output/barrnap/Bacillus_subtilis_rrna.gff3', sep="\t", comment="#", header=None, names=columns)
+deinococcus_barrnap = pd.read_csv('/Users/macvbookpro/PycharmProjects/repeatmodeler/output/barrnap/Deinococcus_radiodurans_rrna.gff3', sep="\t", comment="#", header=None, names=columns)
+rhodococcus_barrnap = pd.read_csv('/Users/macvbookpro/PycharmProjects/repeatmodeler/output/barrnap/Rhodococcus_erythropolis_rrna.gff3', sep="\t", comment="#", header=None, names=columns)
+
+# Scatter plotu oluştur
+plt.figure(figsize=(10, 6))
+
+# Her bir bakteri genomu için scatter plot oluştur
+plt.scatter(bacillus_barrnap['start'], bacillus_barrnap['end'], color='blue', label='Bacillus subtilis')
+plt.scatter(deinococcus_barrnap['start'], deinococcus_barrnap['end'], color='red', label='Deinococcus radiodurans')
+plt.scatter(rhodococcus_barrnap['start'], rhodococcus_barrnap['end'], color='green', label='Rhodococcus erythropolis')
+
+plt.xlabel('Start Position')
+plt.ylabel('End Position')
+plt.title('rRNA Locations of Different Bacteria')
+plt.legend(title='Bacteria')  # Bilgi kutucuğuna başlık ekleme
+#plt.grid(True)
+plt.show()
