@@ -1,0 +1,12 @@
+2024-02-16 15:40:43 : Started OrthoFinder version 2.5.4
+Command Line: /Users/macvbookpro/PycharmProjects/repeatmodeler/.snakemake/conda/1b4e7f2f0f83321ac199195a1874bbed_/bin/orthofinder -f data/orthofinder -og
+
+WorkingDirectory_Base: /Users/macvbookpro/PycharmProjects/repeatmodeler/data/orthofinder/OrthoFinder/Results_Feb16/WorkingDirectory/
+
+Species used: 
+0: Bacillus_subtilis_aa.fasta
+1: Deinococcus_radiodurans_aa.fasta
+2: Rhodococcus_erythropolis_aa.fasta
+
+FN_Orthogroups: /Users/macvbookpro/PycharmProjects/repeatmodeler/data/orthofinder/OrthoFinder/Results_Feb16/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+2024-02-16 15:41:45 : OrthoFinder run completed
