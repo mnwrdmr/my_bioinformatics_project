@@ -1,0 +1,1 @@
+(Rhodococcus_erythropolis_aa_ALU70725.1:0.161349,(Rhodococcus_erythropolis_aa_ALU70744.1:0.214792,(Rhodococcus_erythropolis_aa_ALU69167.1:1.25707,Rhodococcus_erythropolis_aa_ALU69193.1:1.11281):0.671536):0.161349);

@@ -1,0 +1,59 @@
+==================================================
+file name: Bacillus_subtilis.fasta  
+sequences:             1
+total length:    4215606 bp  (4215606 bp excl N/X-runs)
+GC level:         43.51 %
+bases masked:      62313 bp ( 1.48 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements           47         3319 bp    0.08 %
+   SINEs:               47         3319 bp    0.08 %
+   Penelope:             0            0 bp    0.00 %
+   LINEs:                0            0 bp    0.00 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:         0            0 bp    0.00 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1         0            0 bp    0.00 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons          0            0 bp    0.00 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo        0            0 bp    0.00 %
+   En-Spm                0            0 bp    0.00 %
+   MULE-MuDR             0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:           23         8997 bp    0.21 %
+
+Total interspersed repeats:       12316 bp    0.29 %
+
+
+Small RNA:              58        49124 bp    1.17 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:         74         3240 bp    0.08 %
+Low complexity:         22          952 bp    0.02 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.14.1+
+The query was compared to classified sequences in ".../consensi.fa.classified"
+FamDB: 

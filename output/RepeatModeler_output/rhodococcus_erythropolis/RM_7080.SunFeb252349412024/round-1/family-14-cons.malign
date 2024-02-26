@@ -1,0 +1,201 @@
+bless( {
+         'alignCol' => [
+                         {
+                           'seq' => 'GTGAGTGACCGC-GACACCCTTGGG--TCGAC--CGGTCGAACCCGAGGTGTAGAT',
+                           'orient' => '+',
+                           'seqStart' => 1,
+                           'name' => 'gi|148',
+                           'lfSeq' => undef,
+                           'rfSeq' => 'GA'
+                         },
+                         {
+                           'seq' => 'GTGCGTGACGAC-GACACCCTTGGG--CCGGC--CGGTCGAGCCCGAGGTGTAGAT',
+                           'seqStart' => '1',
+                           'lfSeq' => undef,
+                           'rfSeq' => undef,
+                           'orient' => '+',
+                           'srcDiv' => '11.76',
+                           'name' => 'gi|142',
+                           'start' => 0,
+                           'seqEnd' => 51,
+                           'end' => 55
+                         },
+                         {
+                           'start' => 0,
+                           'seqEnd' => 51,
+                           'end' => 55,
+                           'srcDiv' => '13.73',
+                           'orient' => '+',
+                           'name' => 'gi|151',
+                           'lfSeq' => undef,
+                           'rfSeq' => 'CGA',
+                           'seq' => 'GTGAGTGACAGC-GACGCCCTTGGG--GAGAC--CGGTCGAGCCTGACGTGTAGAT',
+                           'seqStart' => '1'
+                         },
+                         {
+                           'end' => 54,
+                           'seqEnd' => 50,
+                           'start' => 0,
+                           'name' => 'gi|144',
+                           'orient' => '+',
+                           'srcDiv' => '16.00',
+                           'rfSeq' => 'GA',
+                           'lfSeq' => undef,
+                           'seqStart' => '1',
+                           'seq' => 'GTGGGTGACGAC-AACTCCCTTGGG--TCGGC--CGGTGGATCCCGAGGTGTAGA'
+                         },
+                         {
+                           'end' => 55,
+                           'seqEnd' => 51,
+                           'start' => 0,
+                           'name' => 'gi|145',
+                           'srcDiv' => '9.80',
+                           'orient' => '+',
+                           'rfSeq' => undef,
+                           'lfSeq' => undef,
+                           'seqStart' => '1',
+                           'seq' => 'GTGAGTGACCAT-GACACCTTTGGG----GACGCCGGTGGAACCGGAGGTGTAGAT'
+                         },
+                         {
+                           'end' => 55,
+                           'seqEnd' => 51,
+                           'start' => 0,
+                           'name' => 'gi|143',
+                           'orient' => '+',
+                           'srcDiv' => '13.73',
+                           'rfSeq' => 'GA',
+                           'lfSeq' => undef,
+                           'seqStart' => '1',
+                           'seq' => 'GTGGGTGACGAT-GACGCCCTTCGGCTTC--C--CGGTTGAACCCGAGGTGTAGAT'
+                         },
+                         {
+                           'lfSeq' => undef,
+                           'rfSeq' => undef,
+                           'seq' => 'GTGAGTGAC-GCTGACACCCTTGGG--CTTTC--CCGTCGATCCGGAGGTGTAGAT',
+                           'seqStart' => '1',
+                           'start' => 0,
+                           'end' => 55,
+                           'seqEnd' => 51,
+                           'name' => 'gi|150',
+                           'srcDiv' => '13.73',
+                           'orient' => '+'
+                         },
+                         {
+                           'lfSeq' => undef,
+                           'rfSeq' => 'GA',
+                           'seq' => 'GTGCGTGGCCAC-GACGCCCTTGGG--CCGGC--CGGTTGTCCCGGAGGTGTA',
+                           'seqStart' => '1',
+                           'start' => 0,
+                           'seqEnd' => 48,
+                           'end' => 52,
+                           'srcDiv' => '20.83',
+                           'orient' => '+',
+                           'name' => 'gi|153'
+                         },
+                         {
+                           'seq' => 'GTGAGTGACGAC-GGTGCCCTTCGG--CACTC--CGGTCGAGCCGGAGGTGTAGAT',
+                           'seqStart' => '1',
+                           'lfSeq' => undef,
+                           'rfSeq' => 'GGA',
+                           'name' => 'gi|149',
+                           'orient' => '+',
+                           'srcDiv' => '23.53',
+                           'start' => 0,
+                           'end' => 55,
+                           'seqEnd' => 51
+                         },
+                         {
+                           'end' => 54,
+                           'seqEnd' => 49,
+                           'start' => 1,
+                           'name' => 'gi|154',
+                           'srcDiv' => '18.37',
+                           'orient' => '+',
+                           'rfSeq' => undef,
+                           'lfSeq' => 'GTTG',
+                           'seqStart' => '1',
+                           'seq' => 'TGGGCGACCTC-GACGCCTTTGGG--TCGAC--CACTCGAGCCGGAGGTGTAGA'
+                         },
+                         {
+                           'rfSeq' => 'GA',
+                           'lfSeq' => 'GTTG',
+                           'seqStart' => '5',
+                           'seq' => 'GTGACCAC-AACGCCTTTGGG--ACGAC--CGGTCGAACCCGAGGTGTAGAT',
+                           'end' => 55,
+                           'seqEnd' => 51,
+                           'start' => 4,
+                           'name' => 'gi|152',
+                           'srcDiv' => '10.64',
+                           'orient' => '+'
+                         },
+                         {
+                           'seq' => 'GTGGCGAC-AACGCCCTTGGG--TAGAC--CGGTCGTGCCGGAGGTGTAGAT',
+                           'seqStart' => '5',
+                           'lfSeq' => 'G',
+                           'rfSeq' => 'GA',
+                           'srcDiv' => '19.15',
+                           'orient' => '+',
+                           'name' => 'gi|146',
+                           'start' => 4,
+                           'seqEnd' => 51,
+                           'end' => 55
+                         },
+                         {
+                           'orient' => '+',
+                           'srcDiv' => '12.77',
+                           'name' => 'gi|155',
+                           'start' => 4,
+                           'seqEnd' => 45,
+                           'end' => 55,
+                           'seq' => 'GTGACCAC-G---CCCTTGGG--CTTGC--CGGTCGAACCGGAGGTGTAGAT',
+                           'seqStart' => '2',
+                           'lfSeq' => 'GTTG',
+                           'rfSeq' => 'GA'
+                         },
+                         {
+                           'end' => 55,
+                           'seqEnd' => 51,
+                           'start' => 4,
+                           'name' => 'gi|147',
+                           'srcDiv' => '23.40',
+                           'orient' => '+',
+                           'rfSeq' => undef,
+                           'lfSeq' => undef,
+                           'seqStart' => '5',
+                           'seq' => 'GTGACCAC-AACGCCCTTGGG--CAGAC--CTGTGGTGCCGGACGTGTAGAT'
+                         },
+                         {
+                           'lfSeq' => 'GGTGTGGAT',
+                           'rfSeq' => 'GGA',
+                           'seq' => 'GACCAT-CACGCCCTTGGG--GCGAC--CCGTCGAACCGGAGGTGTGGAT',
+                           'seqStart' => '1',
+                           'start' => 6,
+                           'end' => 55,
+                           'seqEnd' => 45,
+                           'name' => 'gi|158',
+                           'srcDiv' => '17.78',
+                           'orient' => '+'
+                         },
+                         {
+                           'seqStart' => '10',
+                           'seq' => '-GATGCCCTTGGG--CTTAC--CGGTGGTGCCGGAGGTGTAGA',
+                           'rfSeq' => 'GGA',
+                           'lfSeq' => 'GGTGTGGAT',
+                           'name' => 'gi|157',
+                           'srcDiv' => '23.68',
+                           'orient' => '+',
+                           'end' => 54,
+                           'seqEnd' => 47,
+                           'start' => 12
+                         },
+                         {
+                           'seqStart' => '10',
+                           'seq' => '-GATGCCCTTGGG--CTTAC--CGGTGGTGCCGGAGGTGTAGA',
+                           'end' => 54,
+                           'seqEnd' => 47,
+                           'start' => 12,
+                           'name' => 'gi|156',
+                           'srcDiv' => '23.68'
+                         }
+                       ]
+       }, 'MultAln' )

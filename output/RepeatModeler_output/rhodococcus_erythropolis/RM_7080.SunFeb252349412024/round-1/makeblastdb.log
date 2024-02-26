@@ -1,0 +1,1298 @@
+
+
+Building a new DB, current time: 02/25/2024 23:51:28
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/sampleDB-1.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/sampleDB-1.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 171 sequences in 0.119822 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:29
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/consensi.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/consensi.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 42 sequences in 0.197508 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:46
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 51 sequences in 0.00527811 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:48
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000291109 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:49
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000300884 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:50
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000452995 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:50
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000267982 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:51
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00030303 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:51
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-7.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-7.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00198293 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:52
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-8.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-8.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000293016 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:52
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-9.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-9.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000294924 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:53
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-10.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-10.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000270128 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:53
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-11.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-0-cons-11.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000308037 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:54
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-1.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-1.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 50 sequences in 0.00139713 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:54
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-1-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-1-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000267982 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:55
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-1-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-1-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000271082 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:55
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-1-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-1-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000280857 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:55
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 48 sequences in 0.00174594 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:56
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000304937 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:56
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000270128 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:56
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000427008 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:57
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00028801 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:57
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-2-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000271082 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:58
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 38 sequences in 0.00155711 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:58
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-3-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-3-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000558138 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:58
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-3-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-3-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000294924 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:58
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-3-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-3-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000443935 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:51:59
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 36 sequences in 0.0014689 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:01
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000281096 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:02
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00051713 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:03
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000276089 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:05
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00027585 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:06
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000351906 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:07
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-7.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-7.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000275135 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:08
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-8.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-8.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000270844 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:09
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-9.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-4-cons-9.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000272989 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:10
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 35 sequences in 0.001127 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:10
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000262976 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:10
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000264168 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:10
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000262022 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:11
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-5-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000265837 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:11
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 27 sequences in 0.00101399 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:11
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-6-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-6-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00026083 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:11
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-6-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-6-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000252962 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:11
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-6-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-6-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000255823 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:12
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 23 sequences in 0.00115991 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:13
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000313997 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:13
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000267982 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:14
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000273943 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:14
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000267029 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:14
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000277996 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:15
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-7.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-7-cons-7.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000272036 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:16
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 20 sequences in 0.00901794 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:16
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000341177 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:16
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000263929 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:17
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000364065 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:17
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-8-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000273943 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:18
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 20 sequences in 0.00264621 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:18
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000355959 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:18
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000267982 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:18
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000262976 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:19
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000260115 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:19
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000267029 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:19
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-7.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-9-cons-7.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000262022 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:19
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 20 sequences in 0.00138116 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:20
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000261784 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:20
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000257969 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:20
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000256062 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:20
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000264883 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:20
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-10-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000406981 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:20
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 18 sequences in 0.000990152 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:22
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000277996 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:22
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00027585 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:22
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000268936 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:23
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000277996 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:23
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000276089 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:24
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-7.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-11-cons-7.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00030303 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:25
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 17 sequences in 0.000901937 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:25
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000267982 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:26
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000267029 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:26
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000287056 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:26
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000319004 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:27
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-12-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000259876 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:27
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 17 sequences in 0.000960112 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:28
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000271797 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:28
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000449181 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:29
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000551939 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:30
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000343084 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:30
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000277996 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:30
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-7.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-7.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000266075 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:31
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-8.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-8.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000283003 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:31
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-9.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-13-cons-9.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00026989 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:32
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-14.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-14.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 17 sequences in 0.000931025 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:32
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-14-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-14-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000581026 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:32
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-14-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-14-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000252962 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:32
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-14-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-14-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000341892 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:32
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 16 sequences in 0.000869036 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:32
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000253916 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:33
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000303984 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:33
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000277996 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:33
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-15-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000260115 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:33
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 16 sequences in 0.00146794 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:34
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00107813 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:35
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000277996 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:36
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000274897 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:36
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-16-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000272989 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:38
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 16 sequences in 0.0025692 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:39
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000298977 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:39
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00031805 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:40
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000277042 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:41
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-17-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000417948 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:42
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 16 sequences in 0.00496292 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:44
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-2.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-2.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000354052 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:45
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-3.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-3.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000560999 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:45
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-4.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-4.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000379086 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:46
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-5.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-5.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000357151 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:46
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-6.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-6.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00039196 seconds.
+
+
+
+
+Building a new DB, current time: 02/25/2024 23:52:47
+New DB name:   /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-7.fa
+New DB title:  /Users/macvbookpro/PycharmProjects/repeatmodeler/RM_7080.SunFeb252349412024/round-1/family-18-cons-7.fa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000298023 seconds.
+
+

@@ -1,0 +1,1 @@
+(Bacillus_subtilis_aa:0.5,(Deinococcus_radiodurans_aa:1,Rhodococcus_erythropolis_aa:1)N1:0.5)N0;

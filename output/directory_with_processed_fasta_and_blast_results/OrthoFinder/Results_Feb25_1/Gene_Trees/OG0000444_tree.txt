@@ -1,0 +1,1 @@
+(Bacillus_subtilis_aa_CAB13526.1:0.219017,((Rhodococcus_erythropolis_aa_ALU69926.1:0.438428,Deinococcus_radiodurans_aa_UDL01458.1:0.550601):0.336998,Rhodococcus_erythropolis_aa_ALU70432.1:0.589514):0.219017);

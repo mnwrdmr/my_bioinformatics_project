@@ -1,0 +1,1 @@
+(Deinococcus_radiodurans_aa_UDL02026.1:0.650639,(Rhodococcus_erythropolis_aa_ALU72516.1:1.17305,(Rhodococcus_erythropolis_aa_ALU72314.1:1.42456,Rhodococcus_erythropolis_aa_ALU69701.1:1.47878)n2:0.0988505)n1:0.650639)n0;

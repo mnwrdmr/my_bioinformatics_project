@@ -1,0 +1,4 @@
+	Bacillus_subtilis_aa	Deinococcus_radiodurans_aa	Rhodococcus_erythropolis_aa
+Bacillus_subtilis_aa	0.0	797.0	783.0
+Deinococcus_radiodurans_aa	797.0	0.0	870.0
+Rhodococcus_erythropolis_aa	783.0	870.0	0.0

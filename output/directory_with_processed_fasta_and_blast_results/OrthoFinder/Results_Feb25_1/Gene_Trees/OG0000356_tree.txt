@@ -1,0 +1,1 @@
+(Bacillus_subtilis_aa_CAB15803.1:0.121157,(Bacillus_subtilis_aa_CAB16070.1:0.227877,(Bacillus_subtilis_aa_CAB12034.1:0.216362,Bacillus_subtilis_aa_CAB15975.2:0.198316):0.0803845):0.121157);

@@ -1,0 +1,1 @@
+(Bacillus_subtilis_aa_CAB16008.1:0.403488,(Rhodococcus_erythropolis_aa_ALU73737.1:1.3191,(Rhodococcus_erythropolis_aa_ALU71850.1:0.680906,Rhodococcus_erythropolis_aa_ALU71871.1:0.970413)n2:0.30437)n1:0.403488)n0;

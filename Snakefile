@@ -1,8 +1,8 @@
 rule all:
-    input:  expand('output/barrnap1/{Genome}_rrna.gff3', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
-            #expand('output/orthofinder/'),
-            #expand('output/RepeatModeler/{Genome}_output.fasta', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
-            #expand('output/RepeatModeler/{Genome}.stk', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
+    input:  #expand('output/orthofinder/'),
+            #expand('output/barrnap1/{Genome}_rrna.gff3', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
+            #expand('output/RepeatModeler_output/{Genome}_output.log', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
+            #expand('output/RepeatMasker_output/{Genome}.fasta', Genome=['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']),
 
 ##Barrnap predicts the location of ribosomal RNA genes in genomes.
 rule barrnap:
@@ -15,8 +15,6 @@ rule barrnap:
     shell:
         '''barrnap --kingdom euk --quiet {input.genome} > {output.barrnap}'''
 
-#barrnap outputları alındıktan sonra db ayrıldı tekrar çalıştırmak istenirse dikkat
-#RepeatModeler için makeblastdb (db_fasta:bacillus_subtilis):
 rule makeblastdb:
     input:
         'data/{type}/Genome/db/{Genome}.fasta'
@@ -37,17 +35,24 @@ rule makeblastdb:
 
 rule repeatmodeler:
     input:
-        query='data/Genome/{Genome}.fasta',
-        db='output/RepeatModeler/db/{Genome}.ndb'
+        genome='data/Genome/{Genome}.fasta',
+        db='output/RepeatModeler/db/{Genome}_BuildDatabase'
     output:
-        log='output/RepeatModeler/{Genome}_output.fasta'
-    params:
-        outdir='output/RepeatModeler/db/{Genome}.nhr',
-        threads=6
+        log='output/RepeatModeler_output/{Genome}_output.log'
     conda:
         'env/env.yaml'
     shell:
-        '''RepeatModeler -database {params.outdir} -engine ncbi -pa {params.threads} > {output.log}'''
+        '''RepeatModeler -database {input.db} -pa 6 -LTRStruct > {output.log}'''
+
+rule repeatmasker:
+    input:
+        fasta='RepeatModeler_output/{Genome}.consensi.fa.classified'
+    output:
+        out='data/Genome/{Genome}.fasta',
+        dir='output/RepeatMasker_output/{Genome}'
+    conda:
+        'env/env.yaml'
+    shell: '''RepeatMasker -pa 36 -gff -lib {input.fasta} -dir {output.dir} {output.out}'''
 
 rule orthofinder:
     input:

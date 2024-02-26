@@ -1,0 +1,421 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Alignments</title>
+  <style type="text/css">
+  font.lowQual {
+    background: #CD5C5C;
+  }
+  font.deletion {
+    background: #FF0000;
+  }
+  font.duplication {
+    background: #0000FF;
+  }
+  font.unknown {
+    background: #FFFF00;
+  }
+  font.dupFlank {
+    background: #C0C0C0;
+  }
+  </style>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<PRE>
+lowQualScore                  :                          111111111                                
+lowQualScore                  :                          555555555 22                 0    0      
+lowQualScore                  :                          ......... ..                 .    .      
+lowQualScore                  :                          999999999 22                 6    7      
+<b><i>consensus</i></b>                     :    <font color="blue">CCCCGTGCGCCTTTTCGGTAGT--CG-GC--A--CTACCGAAAAGGCGCAC-GGGG-CCGGAG</font>
+<b><i>Reference ( gi|280 )</i></b>          :    <font color="blue">CCCTGTGCGCCTTTTTGGTAGT--CG-GC--A--CTACCAAAAAGGCGCAC-AGGG-CCGGAG</font>
+<b>gi|279</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-GC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>cgaagcccc
+<b>gi|279</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">GCCG-----</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-C</b>gaagcccc
+<b>gi|261</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-GC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGG</b>tgc
+<b>gi|260</b>                        : <font color="blue">gca</font><b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-GC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGG</b>gctttgcccct
+<b>gi|255</b>                        :  gc<b>CCCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--TC-GC--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-AGGG-CCGAAG</b>gcctt
+<b>gi|255</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--GC-GA--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-AGGG-</b>ccgaaggcctt
+<b>gi|265</b>                        :  gc<b>CCCCGTGCGCCTTTCTGGTTGC<font class="lowQual">--GG-GC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-CCGAAG</b>gccct
+<b>gi|265</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">GCCC-GC--</font>A<font class="lowQual">--</font>--ACCAGAAAGGCGCAC-GGGG-</b>ccgaaggccct
+<b>gi|257</b>                        :  gt<b>CCCTCTGCGCCTTTTTGGTAGT<font class="lowQual">--CC-CC--</font>A<font class="lowQual">--</font>CTACCAGGAAGGCGCAC-AGGG-GCGGAG</b>cccct
+<b>gi|257</b>                        :  gt<b>CCCTGTGCGCCTTCCTGGTAGT<font class="lowQual">--GG-GG--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAG-AGGG-</b>gcggagcccct
+<b>gi|285</b>                        :    <b>CCCTGTGCGCCTTTGTGGTAGC<font class="lowQual">--CG-GA--</font>A<font class="lowQual">--</font>CTACCAGAAAGGCGCAC-AGGG-</b>gc
+<b>gi|285</b>                        :    <b>CCCTGTGCGCCTTTCTGGTAGT<font class="lowQual">TCCG-GC--</font>-<font class="lowQual">--</font>-TACCACAAAGGCGCAC-AGGG-</b>gc
+<b>gi|269</b>                        :  gc<b>CCCTGTGCGCCTTTGTGGTAGC<font class="lowQual">--CG-GA--</font>A<font class="lowQual">--</font>CTACCAGAAAGGCGCAC-AGGG-</b>cgctcgcgcccct
+<b>gi|269</b>                        :  gc<b>CCCTGTGCGCCTTTCTGGTAGT<font class="lowQual">TCCG-G---</font>-<font class="lowQual">--</font>CTACCACAAAGGCGCAC-AGGG-C</b>gctcgcgcccct
+<b>gi|264</b>                        :  gc<b>CCCGGTGCGCCTTTTTGGTGGT<font class="lowQual">--GG-GC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-GGGG-</b>g
+<b>gi|264</b>                        :  gc<b>CCCCGTGCGCCTTTTTGGTAGT<font class="lowQual">--GC-CC--</font>A<font class="lowQual">--</font>CCACCAAAAAGGCGCAC-CGGG-</b>g
+<b>gi|275</b>                        :   c<b>CCCGGTGCGCCTTTTTGGTGGT<font class="lowQual">--GG-GC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-GGGG-</b>gcttcgcccct
+<b>gi|275</b>                        :   c<b>CCCCGTGCGCCTTTTTGGTAGT<font class="lowQual">--GC-CC--</font>A<font class="lowQual">--</font>CCACCAAAAAGGCGCAC-CGGG-</b>gcttcgcccct
+<b>gi|262</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGC<font class="lowQual">--CG-TA--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-GGGG-</b>g
+<b>gi|262</b>                        :  gc<b>CCCCGTGCGCCTTTTTGGTAGT<font class="lowQual">TACG-G---</font>-<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>g
+<b>gi|274</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGC<font class="lowQual">--CG-TA--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-GGGG-</b>gctatgcccct
+<b>gi|274</b>                        :   c<b>CCCCGTGCGCCTTTTTGGTAGT<font class="lowQual">TACG-GC--</font>-<font class="lowQual">--</font>-TACCAAAAAGGCGCAC-AGGG-</b>gctatgcccct
+<b>gi|266</b>                        :  gc<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--CA-CC--</font>A<font class="lowQual">--</font>CCACCGAAAAGGCGCAC-AGGG-TCGAAG</b>
+<b>gi|266</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTGGT<font class="lowQual">--GG-TG--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-GGGG-</b>tcgaag
+<b>gi|273</b>                        :   c<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--AA-CC--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-GGGG-GCGGAG</b>ccctt
+<b>gi|273</b>                        :   c<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--GG-TT--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-AGGG-</b>gcggagccctt
+<b>gi|263</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-GC--</font>G<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-GGGG-</b>tcggtagaacccc
+<b>gi|263</b>                        :  gc<b>CCCCGTGCGCCTTTTTGGTAG-<font class="lowQual">--CGCGA--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-AGGG-TCGG</b>tagaacccc
+<b>gi|281</b>                        :    <b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-GC--</font>G<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-GGGG-GCG</b>tcagccc
+<b>gi|281</b>                        :    <b>CCCCGTGCGCCTTTTTGGTAG-<font class="lowQual">--CGCGA--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-AGGG-</b>gcgtcagccc
+<b>gi|278</b>                        :    <b>CCCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--TC-GC--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-AGGG-</b>gcggagcccct
+<b>gi|278</b>                        :    <b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--GC-GA--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-AGGG-GCGGAG</b>cccct
+<b>gi|286</b>                        :    <b>CCCCGTGCGCCTTTTTGGTAGT<font class="lowQual">-----GC--</font>A<font class="lowQual">CG</font>CTACCGGAAAGGCGCAC-CGG</b>ccggag
+<b>gi|288</b>                        :    <b>CCCCGTGCGCCTTTCCGGTAGT<font class="lowQual">--CC-CC--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-AG</b>ccggaggcctt
+<b>gi|258</b>                        :  gc<b>CCCTGTGCGCCTTCCTGGTAGT<font class="lowQual">--GG-GG--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAG-AGGGACCGAAG</b>gccct
+<b>gi|258</b>                        :  gc<b>CCCTCTGCGCCTTTTTGGTAGT<font class="lowQual">--CC-CC--</font>A<font class="lowQual">--</font>CTACCAGGAAGGCGCAC-AGGG-</b>accgaaggccct
+<b>gi|272</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-GA--</font>G<font class="lowQual">--</font>CTACCTAAAAGGCGCAC-GGGG-GCGAAG</b>cccct
+<b>gi|272</b>                        :   c<b>CCCCGTGCGCCTTTTAGGTAGC<font class="lowQual">--TC-CC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>gcgaagcccct
+<b>gi|282</b>                        :    <b>CCCCGTGCGCCTTTCTGGTTGC<font class="lowQual">--GG-GC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>gccggaggccct
+<b>gi|282</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">GCCC-GC--</font>A<font class="lowQual">--</font>--ACCAGAAAGGCGCACGGGGG-CCGGAG</b>gccct
+<b>gi|283</b>                        :    <b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--CA-CC--</font>A<font class="lowQual">--</font>CCACCGAAAAGGCGCAC-AGGG-</b>gcgtagccctt
+<b>gi|283</b>                        :    <b>CCCTGTGCGCCTTTTCGGTGGT<font class="lowQual">--GG-TG--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-GGGG-GCGTAG</b>ccctt
+<b>gi|276</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-GG--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-GGG</b>tggtgg
+<b>gi|287</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-GG--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-GGG</b>g
+<b>gi|256</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-GA--</font>G<font class="lowQual">--</font>CTACCTAAAAGGCGCAC-GGGG-</b>g
+<b>gi|256</b>                        :  gc<b>CCCCGTGCGCCTTTTAGGTAGC<font class="lowQual">--TC-CC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>g
+<b>gi|259</b>                        :  gc<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--GG-TT--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-AGGG-</b>g
+<b>gi|259</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--AA-CC--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-GGGG-</b>g
+<b>gi|277</b>                        :   c<b>CCCTGTGCGCCTTTCCGGTAG-<font class="lowQual">--CG-ATG-</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-AGG</b>cgc
+<b>gi|271</b>                        : gcg<b>CCCTGTGCGCCTTTCCGGTAG-<font class="lowQual">--CG-ATG-</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-AGG</b>gggcgtcagcccct
+<b>gi|267</b>                        :   g<b>CCCCGTGCGCCTTTTTGGTAGT<font class="lowQual">-----GC--</font>A<font class="lowQual">CG</font>CTACCGGAAAGGCGCAC-CGG</b>
+<b>gi|284</b>                        :    <b>CCCCGTGTGCCTTTCCGGTAGT<font class="lowQual">--GC-GA--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-GGGG-CCGAAG</b>gccct
+<b>gi|284</b>                        :    <b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-GC--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCACAC-GGGG-</b>ccgaaggccct
+<b>gi|268</b>                        :   g<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-GC--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCACAC-GGGG-</b>
+<b>gi|268</b>                        :    <b>CCCCGTGTGCCTTTCCGGTAGT<font class="lowQual">--GC-GA--</font>A<font class="lowQual">--</font>CTACCGAAAAGGCGCAC-GGGG-C</b>
+<b>gi|270</b>                        :   g<b>CCCCGTGCGCCTTTCCGGTAGT<font class="lowQual">--CC-CC--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-AG</b>
+<b>gi|261</b>                        :   gc<b>CCTGTGCGCCTTTTTGGTAGT<font class="lowQual">-----GCCG</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>tgc
+<b>gi|260</b>                        :  gca<b>CCTGTGCGCCTTTTTGGTAGT<font class="lowQual">GCCG-----</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>gctttgcccct
+<b>gi|286</b>                        :     <b>CCGGTGCGCCTTTCCGGTAG-<font class="lowQual">--CGTGC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-GGGG-CCGGAG</b>
+<b>gi|276</b>                        :    c<b>CCCGTGCGCCTTTCCGGTAGT<font class="lowQual">--CC-CC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>tggtgg
+<b>gi|287</b>                        :     <b>CCCGTGCGCCTTTCCGGTAGT<font class="lowQual">--CC-CC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-AGGG-</b>g
+<b>gi|277</b>                        :    c<b>CCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--CA-TC--</font>G<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-AGGG-</b>cgc
+<b>gi|271</b>                        :  gcg<b>CCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--CA-TC--</font>G<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-AGGG-</b>gggcgtcagcccct
+<b>gi|267</b>                        :     <b>CCGGTGCGCCTTTCCGGTAG-<font class="lowQual">--CGTGC--</font>A<font class="lowQual">--</font>CTACCAAAAAGGCGCAC-GGGG-C</b>
+<b>gi|288</b>                        :      <b>CTGTGCGCCTTTCCGGTAGT<font class="lowQual">--GG-GG--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-GGGG-CCGGAG</b>gcctt
+<b>gi|270</b>                        :      <b>CTGTGCGCCTTTCCGGTAGT<font class="lowQual">--GG-GG--</font>A<font class="lowQual">--</font>CTACCGGAAAGGCGCAC-GGGG-C</b>
+<b>gi|289</b>                        :      <b>CTGTGCGCCGTTTCGGTAG-<font class="lowQual">--CG-GT--</font>A<font class="lowQual">A-</font>CTACCAAAACGGCGCAC-</b>gtgcgcgaagcgcct
+<b>gi|289</b>                        :        <b>GTGCGCCGTTTTGGTAGT<font class="lowQual">--TA-CC--</font>G<font class="lowQual">--</font>CTACCGAAACGGCGCAC-AG</b>gtgcgcgaagcgcct
+</PRE>
+
+<br>
+<br><hr>
+<br>
+<br><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Alignments</title>
+  <style type="text/css">
+  font.lowQual {
+    background: #CD5C5C;
+  }
+  font.deletion {
+    background: #FF0000;
+  }
+  font.duplication {
+    background: #0000FF;
+  }
+  font.unknown {
+    background: #FFFF00;
+  }
+  font.dupFlank {
+    background: #C0C0C0;
+  }
+  </style>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<PRE>
+lowQualScore                  :       3                  333                   1 2          
+lowQualScore                  :       .                  ...                   . .          
+lowQualScore                  :       8                  222                   1 3          
+<b><i>consensus</i></b>                     :    <font color="blue">CCCTGTGCGCCTTTTCGGTAGTCG-GCACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+<b><i>Reference ( family-5 )</i></b>        :    <font color="blue">CCCCGTGCGCCTTTTCGGTAGTCG-GCACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+<b>gi|255</b>                        :  gc<b>CCC<font class="lowQual">T</font>GTGCGCCTTTCCGGTAGT<font class="lowQual">TC-</font>GCACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGAAG</b>gcctt
+<b>gi|256</b>                        :  gc<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGT<font class="lowQual">GG-</font>GAGCTACCTAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|257</b>                        :  gt<b>CCC<font class="lowQual">T</font>CTGCGCCTTTTTGGTAGT<font class="lowQual">CC-</font>CCACTACCAGGAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGGCGGAG</b>cccct
+<b>gi|258</b>                        :  <font color="blue">gc</font><b>CCC<font class="lowQual">T</font>GTGCGCCTTCCTGGTAGT<font class="lowQual">GG-</font>GGACTACCAAAAAGGCGCA<font class="lowQual">G</font>A<font class="lowQual">-</font>GGGACCGAAG</b>gccct
+<b>gi|259</b>                        :  gc<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTCGGTAGT<font class="lowQual">AA-</font>CCACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|260</b>                        : gca<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGT<font class="lowQual">CG-</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGG</b>gctttgcccct
+<b>gi|261</b>                        :  gc<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGT<font class="lowQual">CG-</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGG</b>tgc
+<b>gi|262</b>                        :  gc<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGC<font class="lowQual">CG-</font>TAACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|263</b>                        :  gc<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTCGGTAGT<font class="lowQual">TC-</font>GCGCTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>tcggtagaacccc
+<b>gi|264</b>                        :  gc<b>CCC<font class="lowQual">G</font>GTGCGCCTTTTTGGTGGT<font class="lowQual">GG-</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|265</b>                        :  gc<b>CCC<font class="lowQual">C</font>GTGCGCCTTTCTGGTTGC<font class="lowQual">GG-</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGAAG</b>gccct
+<b>gi|266</b>                        :  gc<b>CCC<font class="lowQual">C</font>GTGCGCCTTTTCGGTAGT<font class="lowQual">CA-</font>CCACCACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGTCGAAG</b>
+<b>gi|267</b>                        :     <b>CC<font class="lowQual">G</font>GTGCGCCTTTCCGGTAG-<font class="lowQual">CGT</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGC</b>
+<b>gi|268</b>                        :   g<b>CCC<font class="lowQual">C</font>GTGCGCCTTTTCGGTAGT<font class="lowQual">TC-</font>GCACTACCGGAAAGGCACA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>
+<b>gi|269</b>                        :    <b>CCC<font class="lowQual">T</font>GTGCGCCTTTGTGGTAGC<font class="lowQual">CG-</font>GAACTACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">A</font>GGGGC</b>cgctcgcgcccct
+<b>gi|270</b>                        :      <b>C<font class="lowQual">T</font>GTGCGCCTTTCCGGTAGT<font class="lowQual">GG-</font>GGACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGC</b>
+<b>gi|271</b>                        :  gcg<b>CC<font class="lowQual">T</font>GTGCGCCTTTCCGGTAGT<font class="lowQual">CA-</font>TCGCTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gggcgtcagcccct
+<b>gi|272</b>                        :   c<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGT<font class="lowQual">GG-</font>GAGCTACCTAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGAAG</b>cccct
+<b>gi|273</b>                        :   c<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTCGGTAGT<font class="lowQual">AA-</font>CCACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGGAG</b>ccctt
+<b>gi|274</b>                        :   c<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGC<font class="lowQual">CG-</font>TAACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>gctatgcccct
+<b>gi|275</b>                        :   c<b>CCC<font class="lowQual">G</font>GTGCGCCTTTTTGGTGGT<font class="lowQual">GG-</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>gcttcgcccct
+<b>gi|276</b>                        :   c<b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGT<font class="lowQual">GG-</font>GGACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGG</b>tggtgg
+<b>gi|277</b>                        :    c<b>CC<font class="lowQual">T</font>GTGCGCCTTTCCGGTAGT<font class="lowQual">CA-</font>TCGCTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>cgc
+<b>gi|278</b>                        :    <b>CCC<font class="lowQual">T</font>GTGCGCCTTTCCGGTAGT<font class="lowQual">TC-</font>GCACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gcggagcccct
+<b>gi|279</b>                        :    <b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGT<font class="lowQual">CG-</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>cgaagcccc
+<b>gi|280</b>                        :    <b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGT<font class="lowQual">CG-</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGGAG</b>
+<b>gi|281</b>                        :    <b>CCC<font class="lowQual">T</font>GTGCGCCTTTTCGGTAGT<font class="lowQual">TC-</font>GCGCTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCG</b>tcagccc
+<b>gi|282</b>                        :    <b>CCC<font class="lowQual">C</font>GTGCGCCTTTCTGGTTGC<font class="lowQual">GG-</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gccggaggccct
+<b>gi|283</b>                        :    <b>CCC<font class="lowQual">C</font>GTGCGCCTTTTCGGTAGT<font class="lowQual">CA-</font>CCACCACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gcgtagccctt
+<b>gi|284</b>                        :    <b>CCC<font class="lowQual">C</font>GTGTGCCTTTCCGGTAGT<font class="lowQual">GC-</font>GAACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGAAG</b>gccct
+<b>gi|285</b>                        :    <b>CCC<font class="lowQual">T</font>GTGCGCCTTTGTGGTAGC<font class="lowQual">CG-</font>GAACTACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">A</font>GGGGC</b>
+<b>gi|286</b>                        :     <b>CC<font class="lowQual">G</font>GTGCGCCTTTCCGGTAG-<font class="lowQual">CGT</font>GCACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGGAG</b>
+<b>gi|287</b>                        :    <b>CCC<font class="lowQual">T</font>GTGCGCCTTTTTGGTAGT<font class="lowQual">GG-</font>GGACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGG</b>g
+<b>gi|288</b>                        :      <b>C<font class="lowQual">T</font>GTGCGCCTTTCCGGTAGT<font class="lowQual">GG-</font>GGACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGGAG</b>gcctt
+<b>gi|289</b>                        :       <b><font class="lowQual">C</font>GTGCGCCGTTTTGGTAGT<font class="lowQual">TA-</font>CCGCTACCGAAACGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AG</b>tgcgcgaagcgcct
+</PRE>
+
+<br>
+<br><hr>
+<br>
+<br><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Alignments</title>
+  <style type="text/css">
+  font.lowQual {
+    background: #CD5C5C;
+  }
+  font.deletion {
+    background: #FF0000;
+  }
+  font.duplication {
+    background: #0000FF;
+  }
+  font.unknown {
+    background: #FFFF00;
+  }
+  font.dupFlank {
+    background: #C0C0C0;
+  }
+  </style>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<PRE>
+lowQualScore                  :                          44444  1      0          1 3          
+lowQualScore                  :                          .....  .      .          . .          
+lowQualScore                  :                          11111  1      1          1 4          
+<b><i>consensus</i></b>                     :    <font color="blue">CCCTGTGCGCCTTTTCGGTAGT--CG-GC-ACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+<b><i>Reference ( family-5 )</i></b>        :    <font color="blue">CCCTGTGCGCCTTTTCGGTAGT--CG-GC-ACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+<b>gi|255</b>                        :  gc<b>CCCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGAAG</b>gcctt
+<b>gi|256</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GA<font class="lowQual">-</font>GCTACCTAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|257</b>                        :  gt<b>CCCTCTGCGCCTTTTTGGTAGT<font class="lowQual">--CC-</font>CC<font class="lowQual">-</font>ACTACCAGGAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGGCGGAG</b>cccct
+<b>gi|258</b>                        :  <font color="blue">gc</font><b>CCCTGTGCGCCTTCCTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">G</font>A<font class="lowQual">-</font>GGGACCGAAG</b>gccct
+<b>gi|259</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--AA-</font>CC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|260</b>                        : gca<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGG</b>gctttgcccct
+<b>gi|261</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGG</b>tgc
+<b>gi|262</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGC<font class="lowQual">--CG-</font>TA<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|263</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>GCTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>tcggtagaacccc
+<b>gi|264</b>                        :  gc<b>CCCGGTGCGCCTTTTTGGTGGT<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|265</b>                        :  gc<b>CCCCGTGCGCCTTTCTGGTTGC<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGAAG</b>gccct
+<b>gi|266</b>                        :  gc<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--CA-</font>CC<font class="lowQual">-</font>ACCACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGTCGAAG</b>
+<b>gi|267</b>                        :     <b>CCGGTGCGCCTTTCCGGTAG-<font class="lowQual">--CGT</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGC</b>
+<b>gi|268</b>                        :   g<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGGAAAGGCACA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>
+<b>gi|269</b>                        :    <b>CCCTGTGCGCCTTTGTGGTAGC<font class="lowQual">--CG-</font>GA<font class="lowQual">-</font>ACTACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">A</font>GGGGC</b>cgctcgcgcccct
+<b>gi|270</b>                        :      <b>CTGTGCGCCTTTCCGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGC</b>
+<b>gi|271</b>                        :  gcg<b>CCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--CA-</font>TC<font class="lowQual">-</font>GCTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gggcgtcagcccct
+<b>gi|272</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GA<font class="lowQual">-</font>GCTACCTAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGAAG</b>cccct
+<b>gi|273</b>                        :   c<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--AA-</font>CC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGGAG</b>ccctt
+<b>gi|274</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGC<font class="lowQual">--CG-</font>TA<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>gctatgcccct
+<b>gi|275</b>                        :   c<b>CCCGGTGCGCCTTTTTGGTGGT<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>gcttcgcccct
+<b>gi|276</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGG</b>tggtgg
+<b>gi|277</b>                        :    c<b>CCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--CA-</font>TC<font class="lowQual">-</font>GCTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>cgc
+<b>gi|278</b>                        :    <b>CCCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gcggagcccct
+<b>gi|279</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>cgaagcccc
+<b>gi|280</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGGAG</b>
+<b>gi|281</b>                        :    <b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>GCTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCG</b>tcagccc
+<b>gi|282</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">GCCC-</font>GC<font class="lowQual">-</font>A--ACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">G</font>GGGGCCGGAG</b>gccct
+<b>gi|283</b>                        :    <b>CCCTGTGCGCCTTTTCGGTGGT<font class="lowQual">--GG-</font>TG<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGTAG</b>ccctt
+<b>gi|284</b>                        :    <b>CCCCGTGTGCCTTTCCGGTAGT<font class="lowQual">--GC-</font>GA<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGAAG</b>gccct
+<b>gi|285</b>                        :    <b>CCCTGTGCGCCTTTGTGGTAGC<font class="lowQual">--CG-</font>GA<font class="lowQual">-</font>ACTACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">A</font>GGGGC</b>
+<b>gi|286</b>                        :     <b>CCGGTGCGCCTTTCCGGTAG-<font class="lowQual">--CGT</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGGAG</b>
+<b>gi|287</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGG</b>g
+<b>gi|288</b>                        :      <b>CTGTGCGCCTTTCCGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGGAG</b>gcctt
+<b>gi|289</b>                        :      <b>CTGTGCGCCGTTTCGGTAG-<font class="lowQual">--CG-</font>GT<font class="lowQual">A</font>ACTACCAAAACGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font></b>tgcgcgaagcgcct
+</PRE>
+
+<br>
+<br><hr>
+<br>
+<br><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Alignments</title>
+  <style type="text/css">
+  font.lowQual {
+    background: #CD5C5C;
+  }
+  font.deletion {
+    background: #FF0000;
+  }
+  font.duplication {
+    background: #0000FF;
+  }
+  font.unknown {
+    background: #FFFF00;
+  }
+  font.dupFlank {
+    background: #C0C0C0;
+  }
+  </style>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<PRE>
+lowQualScore                  :                          44444  1      0          1 3          
+lowQualScore                  :                          .....  .      .          . .          
+lowQualScore                  :                          11111  1      1          1 4          
+<b><i>consensus</i></b>                     :    <font color="blue">CCCTGTGCGCCTTTTCGGTAGT--CG-GC-ACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+<b><i>Reference ( family-5 )</i></b>        :    <font color="blue">CCCTGTGCGCCTTTTCGGTAGT--CG-GC-ACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+<b>gi|255</b>                        :  gc<b>CCCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGAAG</b>gcctt
+<b>gi|256</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GA<font class="lowQual">-</font>GCTACCTAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|257</b>                        :  gt<b>CCCTCTGCGCCTTTTTGGTAGT<font class="lowQual">--CC-</font>CC<font class="lowQual">-</font>ACTACCAGGAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGGCGGAG</b>cccct
+<b>gi|258</b>                        :  <font color="blue">gc</font><b>CCCTGTGCGCCTTCCTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">G</font>A<font class="lowQual">-</font>GGGACCGAAG</b>gccct
+<b>gi|259</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--AA-</font>CC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|260</b>                        : gca<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGG</b>gctttgcccct
+<b>gi|261</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGG</b>tgc
+<b>gi|262</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGC<font class="lowQual">--CG-</font>TA<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|263</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>GCTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>tcggtagaacccc
+<b>gi|264</b>                        :  gc<b>CCCGGTGCGCCTTTTTGGTGGT<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|265</b>                        :  gc<b>CCCCGTGCGCCTTTCTGGTTGC<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGAAG</b>gccct
+<b>gi|266</b>                        :  gc<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--CA-</font>CC<font class="lowQual">-</font>ACCACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGTCGAAG</b>
+<b>gi|267</b>                        :     <b>CCGGTGCGCCTTTCCGGTAG-<font class="lowQual">--CGT</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGC</b>
+<b>gi|268</b>                        :   g<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGGAAAGGCACA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>
+<b>gi|269</b>                        :    <b>CCCTGTGCGCCTTTGTGGTAGC<font class="lowQual">--CG-</font>GA<font class="lowQual">-</font>ACTACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">A</font>GGGGC</b>cgctcgcgcccct
+<b>gi|270</b>                        :      <b>CTGTGCGCCTTTCCGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGC</b>
+<b>gi|271</b>                        :  gcg<b>CCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--CA-</font>TC<font class="lowQual">-</font>GCTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gggcgtcagcccct
+<b>gi|272</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GA<font class="lowQual">-</font>GCTACCTAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGAAG</b>cccct
+<b>gi|273</b>                        :   c<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--AA-</font>CC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGGAG</b>ccctt
+<b>gi|274</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGC<font class="lowQual">--CG-</font>TA<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>gctatgcccct
+<b>gi|275</b>                        :   c<b>CCCGGTGCGCCTTTTTGGTGGT<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>gcttcgcccct
+<b>gi|276</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGG</b>tggtgg
+<b>gi|277</b>                        :    c<b>CCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--CA-</font>TC<font class="lowQual">-</font>GCTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>cgc
+<b>gi|278</b>                        :    <b>CCCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gcggagcccct
+<b>gi|279</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>cgaagcccc
+<b>gi|280</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGGAG</b>
+<b>gi|281</b>                        :    <b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>GCTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCG</b>tcagccc
+<b>gi|282</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">GCCC-</font>GC<font class="lowQual">-</font>A--ACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">G</font>GGGGCCGGAG</b>gccct
+<b>gi|283</b>                        :    <b>CCCTGTGCGCCTTTTCGGTGGT<font class="lowQual">--GG-</font>TG<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGTAG</b>ccctt
+<b>gi|284</b>                        :    <b>CCCCGTGTGCCTTTCCGGTAGT<font class="lowQual">--GC-</font>GA<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGAAG</b>gccct
+<b>gi|285</b>                        :    <b>CCCTGTGCGCCTTTGTGGTAGC<font class="lowQual">--CG-</font>GA<font class="lowQual">-</font>ACTACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">A</font>GGGGC</b>
+<b>gi|286</b>                        :     <b>CCGGTGCGCCTTTCCGGTAG-<font class="lowQual">--CGT</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGGAG</b>
+<b>gi|287</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGG</b>g
+<b>gi|288</b>                        :      <b>CTGTGCGCCTTTCCGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGGAG</b>gcctt
+<b>gi|289</b>                        :      <b>CTGTGCGCCGTTTCGGTAG-<font class="lowQual">--CG-</font>GT<font class="lowQual">A</font>ACTACCAAAACGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font></b>tgcgcgaagcgcct
+
+
+blockSeqs                     :                          GCCC   A                 G A
+blockSeqs                     :                          CGT    .                 . G
+blockSeqs                     :                          CGT    .                 . A
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          CC     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          AA     .                 . .
+blockSeqs                     :                          CG     .                 . .
+blockSeqs                     :                          CG     .                 . .
+blockSeqs                     :                          CG     .                 . .
+blockSeqs                     :                          TC     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          CA     .                 . .
+blockSeqs                     :                          TC     .                 . .
+blockSeqs                     :                          CG     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          CA     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          AA     .                 . .
+blockSeqs                     :                          CG     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          CA     .                 . .
+blockSeqs                     :                          TC     .                 . .
+blockSeqs                     :                          CG     .                 . .
+blockSeqs                     :                          CG     .                 . .
+blockSeqs                     :                          TC     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          GC     .                 . .
+blockSeqs                     :                          CG     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          GG     .                 . .
+blockSeqs                     :                          CG     .                 . .
+
+
+blockSeqCons                  :    
+originalCons                  :    <font color="red">CCCTGTGCGCCTTTTCGGTAGT--CG-GC-ACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+finalCons                     :    <font color="blue">CCCTGTGCGCCTTTTCGGTAGT--CG-GC-ACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+</PRE>
+
+<br>
+<br><hr>
+<br>
+<br><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Alignments</title>
+  <style type="text/css">
+  font.lowQual {
+    background: #CD5C5C;
+  }
+  font.deletion {
+    background: #FF0000;
+  }
+  font.duplication {
+    background: #0000FF;
+  }
+  font.unknown {
+    background: #FFFF00;
+  }
+  font.dupFlank {
+    background: #C0C0C0;
+  }
+  </style>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<PRE>
+lowQualScore                  :                          44444  1      0          1 3          
+lowQualScore                  :                          .....  .      .          . .          
+lowQualScore                  :                          11111  1      1          1 4          
+<b><i>consensus</i></b>                     :    <font color="blue">CCCTGTGCGCCTTTTCGGTAGT--CG-GC-ACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+<b><i>Reference ( family-5 )</i></b>        :    <font color="blue">CCCTGTGCGCCTTTTCGGTAGT--CG-GC-ACTACCGAAAAGGCGCA-C-GGGGCCGGAG</font>
+<b>gi|255</b>                        :  gc<b>CCCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGAAG</b>gcctt
+<b>gi|256</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GA<font class="lowQual">-</font>GCTACCTAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|257</b>                        :  gt<b>CCCTCTGCGCCTTTTTGGTAGT<font class="lowQual">--CC-</font>CC<font class="lowQual">-</font>ACTACCAGGAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGGCGGAG</b>cccct
+<b>gi|258</b>                        :  <font color="blue">gc</font><b>CCCTGTGCGCCTTCCTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">G</font>A<font class="lowQual">-</font>GGGACCGAAG</b>gccct
+<b>gi|259</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--AA-</font>CC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|260</b>                        : gca<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGG</b>gctttgcccct
+<b>gi|261</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGG</b>tgc
+<b>gi|262</b>                        :  gc<b>CCCTGTGCGCCTTTTTGGTAGC<font class="lowQual">--CG-</font>TA<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|263</b>                        :  gc<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>GCTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>tcggtagaacccc
+<b>gi|264</b>                        :  gc<b>CCCGGTGCGCCTTTTTGGTGGT<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>g
+<b>gi|265</b>                        :  gc<b>CCCCGTGCGCCTTTCTGGTTGC<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGAAG</b>gccct
+<b>gi|266</b>                        :  gc<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--CA-</font>CC<font class="lowQual">-</font>ACCACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGTCGAAG</b>
+<b>gi|267</b>                        :     <b>CCGGTGCGCCTTTCCGGTAG-<font class="lowQual">--CGT</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGC</b>
+<b>gi|268</b>                        :   g<b>CCCCGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGGAAAGGCACA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>
+<b>gi|269</b>                        :    <b>CCCTGTGCGCCTTTGTGGTAGC<font class="lowQual">--CG-</font>GA<font class="lowQual">-</font>ACTACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">A</font>GGGGC</b>cgctcgcgcccct
+<b>gi|270</b>                        :      <b>CTGTGCGCCTTTCCGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGC</b>
+<b>gi|271</b>                        :  gcg<b>CCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--CA-</font>TC<font class="lowQual">-</font>GCTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gggcgtcagcccct
+<b>gi|272</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GA<font class="lowQual">-</font>GCTACCTAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGAAG</b>cccct
+<b>gi|273</b>                        :   c<b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--AA-</font>CC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGGAG</b>ccctt
+<b>gi|274</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGC<font class="lowQual">--CG-</font>TA<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>gctatgcccct
+<b>gi|275</b>                        :   c<b>CCCGGTGCGCCTTTTTGGTGGT<font class="lowQual">--GG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGG</b>gcttcgcccct
+<b>gi|276</b>                        :   c<b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGG</b>tggtgg
+<b>gi|277</b>                        :    c<b>CCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--CA-</font>TC<font class="lowQual">-</font>GCTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>cgc
+<b>gi|278</b>                        :    <b>CCCTGTGCGCCTTTCCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>gcggagcccct
+<b>gi|279</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGG</b>cgaagcccc
+<b>gi|280</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--CG-</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>AGGGCCGGAG</b>
+<b>gi|281</b>                        :    <b>CCCTGTGCGCCTTTTCGGTAGT<font class="lowQual">--TC-</font>GC<font class="lowQual">-</font>GCTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCG</b>tcagccc
+<b>gi|282</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">GCCC-</font>GC<font class="lowQual">-</font>A--ACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">G</font>GGGGCCGGAG</b>gccct
+<b>gi|283</b>                        :    <b>CCCTGTGCGCCTTTTCGGTGGT<font class="lowQual">--GG-</font>TG<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGGCGTAG</b>ccctt
+<b>gi|284</b>                        :    <b>CCCCGTGTGCCTTTCCGGTAGT<font class="lowQual">--GC-</font>GA<font class="lowQual">-</font>ACTACCGAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGAAG</b>gccct
+<b>gi|285</b>                        :    <b>CCCTGTGCGCCTTTGTGGTAGC<font class="lowQual">--CG-</font>GA<font class="lowQual">-</font>ACTACCAGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">A</font>GGGGC</b>
+<b>gi|286</b>                        :     <b>CCGGTGCGCCTTTCCGGTAG-<font class="lowQual">--CGT</font>GC<font class="lowQual">-</font>ACTACCAAAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGGAG</b>
+<b>gi|287</b>                        :    <b>CCCTGTGCGCCTTTTTGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGG</b>g
+<b>gi|288</b>                        :      <b>CTGTGCGCCTTTCCGGTAGT<font class="lowQual">--GG-</font>GG<font class="lowQual">-</font>ACTACCGGAAAGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font>GGGGCCGGAG</b>gcctt
+<b>gi|289</b>                        :      <b>CTGTGCGCCGTTTCGGTAG-<font class="lowQual">--CG-</font>GT<font class="lowQual">A</font>ACTACCAAAACGGCGCA<font class="lowQual">-</font>C<font class="lowQual">-</font></b>tgcgcgaagcgcct
+</PRE>

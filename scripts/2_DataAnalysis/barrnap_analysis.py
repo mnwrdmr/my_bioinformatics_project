@@ -172,6 +172,7 @@ plt.show()
 #renkler ile 3 genom için scatterplot
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Veri çerçevesinin sütunları
 columns = ["seqid", "source", "type", "start", "end", "score", "strand", "phase", "attributes"]
@@ -185,9 +186,11 @@ rhodococcus_barrnap = pd.read_csv('/Users/macvbookpro/PycharmProjects/repeatmode
 plt.figure(figsize=(10, 6))
 
 # Her bir bakteri genomu için scatter plot oluştur
-plt.scatter(bacillus_barrnap['start'], bacillus_barrnap['end'], color='blue', label='Bacillus subtilis')
-plt.scatter(deinococcus_barrnap['start'], deinococcus_barrnap['end'], color='red', label='Deinococcus radiodurans')
-plt.scatter(rhodococcus_barrnap['start'], rhodococcus_barrnap['end'], color='green', label='Rhodococcus erythropolis')
+sns.color_palette("Set2")
+plt.scatter(bacillus_barrnap['start'], bacillus_barrnap['end'], label='Bacillus subtilis')
+plt.scatter(deinococcus_barrnap['start'], deinococcus_barrnap['end'], label='Deinococcus radiodurans')
+plt.scatter(rhodococcus_barrnap['start'], rhodococcus_barrnap['end'], label='Rhodococcus erythropolis')
+
 
 plt.xlabel('Start Position')
 plt.ylabel('End Position')

@@ -1,0 +1,18 @@
+# args=-index esa_index -out ltrharvest.out
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) s(rLTR) e(rLTR) l(rLTR) sim(LTRs) seq-nr 
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# sim = similarity
+# seq-nr = sequence number
+94358  101210  6853  94358  95354  997  100211  101210  1000  99.60  0
+170319  176314  5996  170319  171314  996  175315  176314  1000  99.60  0
+385722  397297  11576  385722  386533  812  396497  397297  801  96.31  0
+3665927  3673626  7700  3665927  3666603  677  3672942  3673626  685  94.16  0
+4171185  4176848  5664  4171185  4171348  164  4176683  4176848  166  90.36  0
+4189347  4191358  2012  4189347  4189566  220  4191138  4191358  221  89.14  0

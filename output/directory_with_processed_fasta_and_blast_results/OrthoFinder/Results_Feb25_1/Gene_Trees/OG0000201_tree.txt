@@ -1,0 +1,1 @@
+(Deinococcus_radiodurans_aa_UDK99313.1:0.391274,(Deinococcus_radiodurans_aa_UDL02268.1:0.963954,((Deinococcus_radiodurans_aa_UDL01327.1:0.880112,Deinococcus_radiodurans_aa_UDK99371.1:1.06648):0.128962,(Deinococcus_radiodurans_aa_UDL00965.1:0.741739,Deinococcus_radiodurans_aa_UDL01548.1:1.1374):0.100338):0.0550426):0.391274);
