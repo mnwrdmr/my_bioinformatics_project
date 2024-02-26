@@ -43,12 +43,12 @@ plt.legend()
 plt.show()
 
 ###########
-#
+#renk denemeleri
 import matplotlib.pyplot as plt
 import numpy as np
 
 # Verilen yüzdelikler
-genomes = ['Bacillus_subtilis_aa', 'Deinococcus_radiodurans_aa', 'Rhodococcus_erythropolis_aa']
+genomes = ['Bacillus_subtilis', 'Deinococcus_radiodurans', 'Rhodococcus_erythropolis']
 species_specific_percentages = [13.5, 8.3, 27.7]
 genes_in_orthogroups_percentages = [58.4, 59.2, 64.8]
 
@@ -57,14 +57,21 @@ conserved_percentages = [orthogroups - species_specific for orthogroups, species
 
 # Renk paleti
 colors = ['#1f77b4', '#ff7f0e']
-
+r = sns.color_palette("rocket")
+color= sns.cubehelix_palette(start=.5, rot=-.5, as_cmap=True)
+a = sns.cubehelix_palette(rot=-.2)
+d = sns.diverging_palette(250, 30, l=65, center="dark")
+s = sns.color_palette("dark:salmon_r")
+b = sns.color_palette("light:b")
+c = sns.diverging_palette(220, 20)
 # Bar plot oluşturma
 plt.figure(figsize=(10, 6))
 
-bar1 = plt.bar(genomes, species_specific_percentages, color=colors[0], label='Species-specific')
-bar2 = plt.bar(genomes, conserved_percentages, bottom=species_specific_percentages, color=colors[1], label='Conserved')
+#slaytta kullanılan color= b:0-1
+bar1 = plt.bar(genomes, species_specific_percentages, color=b[0], label='Species-specific')
+bar2 = plt.bar(genomes, conserved_percentages, bottom=species_specific_percentages, color=b[1], label='Conserved')
 
-# Barların üzerine yüzde değerlerini yazma
+# Barların üzerine yüzde değerlerini yazmaa
 for bars in [bar1, bar2]:
     for bar in bars:
         yval = bar.get_height()
