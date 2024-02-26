@@ -33,7 +33,8 @@ Genom Projesi Ödevi İçin;
 2) Tekrarlı bölgeler için RepeatModeler ve RepeatMasker yazılımları kullanıldı ve sonuçlar ile 'PieChart' oluşturuldu.
 3) Planlanan StainedGlass yazılımı için bütün gereklilikler yerine getirildi fakat çeşitli python uyuşmazlıkları ve hatalarından dolayı çıktı alınamadı.
 
-<img width="908" alt="Screenshot 2024-02-26 at 15 58 29" src="https://github.com/mnwrdmr/my_bioinformatics_project/assets/93953094/be3661be-3a3e-49fd-bedd-2fefb90b6cf7">
+<img width="942" alt="Screenshot 2024-02-27 at 02 09 45" src="https://github.com/mnwrdmr/my_bioinformatics_project/assets/93953094/415d50f0-1c8b-42ea-bdc3-e26fe7584a5b">
+
 
 
 
